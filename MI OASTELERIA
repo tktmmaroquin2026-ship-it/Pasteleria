@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Pastelería</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header>
+        <h1>DULCES DELICIAS</h1>
+    </header>
+
+    <main>
+        <section class="galeria">
+        </div>
+
+            <div class="tarjeta">
+                <img src="pastelchocolate1.webp" alt="Pastel de Chocolate">
+                <h2>Pastel de Chocolate</h2>
+                <p>Bizcocho de cacao con relleno de ganache premium.</p>
+                <span class="precio">Q150</span>
+            
+</div>
+
+            <div class="tarjeta">
+                <img src="CheesecakeFresa2.jpg" alt="Cheesecake de Fresa">
+                <h2>Cheesecake de Fresa</h2>
+                <p>Cremoso pastel de queso con mermelada natural.</p>
+                <span class="precio">Q130</span>
+            </div>
+
+            <div class="tarjeta">
+                <img src="postre3.jpg" alt="Pie de Limón">
+                <h2>Pie de Limón</h2>
+                <p>Base crocante con crema ácida y merengue tostado.</p>
+                <span class="precio">Q95</span>
+        </div>
+
+            <div class="tarjeta">
+                <img src="Cupcakes4.jpg" alt="Cupcakes Decorados">
+                <h2>Cupcakes Variados</h2>
+                <p>Set de vainilla y chocolate con cobertura de mantequilla.</p>
+                <span class="precio">Q60</span>
+            </div>
+
+            <div class="tarjeta">
+                <img src="RedVelvet5.jpg" alt="Pastel Red Velvet">
+                <h2>Red Velvet</h2>
+                <p>Bizcocho terciopelo rojo con betún de queso crema.</p>
+                <span class="precio">Q160</span>
+            
+                </div>
+
+            <div class="tarjeta">
+                <img src="TartaFrutas6.jpg" alt="Tarta de Frutas">
+                <h2>Tarta de Frutas</h2>
+                <p>Rellena de crema pastelera y fruta fresca de temporada.</p>
+                <span class="precio">Q110</span>
+            </div>
+
+    
+        </section>
+    </main>
+
+    <footer>
+        <p>Pastelería creada por alumna de Cuarto Bachillerato</p>
+    </footer>
+
+</body>
+</html>
